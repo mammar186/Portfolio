@@ -17,12 +17,12 @@ export function Hero() {
             <div className="absolute inset-0 bg-[url('/cover.png')] bg-cover bg-center opacity-10" />
 
             <div className="relative mx-auto flex flex-col items-center section-shell text-center">
-                <p className="text-sm uppercase tracking-[0.35em] text-slate-400">Frontend Developer</p>
+                <p className="text-sm uppercase tracking-[0.35em] text-slate-400">Mobile App Developer</p>
                 <h1 className="mt-4 text-3xl font-semibold sm:text-4xl">
                     Hi, I am <span className="text-[#07d2c7]">Muhammad Ammar</span>
                 </h1>
                 <p className="mt-4 max-w-3xl text-base text-slate-300 sm:text-lg">
-                    A  <span className="text-[#07d2c7]">Frontend Developer</span> transforming ideas into stunning
+                    A  <span className="text-[#07d2c7]">Mobile App Developer</span> transforming ideas into stunning
                     digital experiences. Let&apos;s create something amazing!
                 </p>
 

@@ -3,8 +3,8 @@ import { FileDown, Globe2 } from "lucide-react";
 const orbitBadges = [
   { label: "React Native", position: "-left-5 top-4" },
   { label: "Expo", position: "right-4 top-1" },
-  { label: "Next.js", position: "-left-4 bottom-8" },
-  { label: "React", position: "right-2 bottom-10" },
+  { label: "JavaScript", position: "-left-4 bottom-8" },
+  { label: "R3F", position: "right-0 bottom-10" },
 ];
 
 export function AboutSection() {
@@ -39,15 +39,11 @@ export function AboutSection() {
             </h2>
           </div>
           <p>
-            Frontend developer with hands-on experience building web and mobile
-            applications using React, Next.js, and React Native. Skilled in
-            TypeScript, Expo, Supabase, SQLite, and modern state management
-            tools like Zustand and Redux. Experienced in real-time and
-            offline-first systems, smooth UI/UX with animations, and interactive
-            3D interfaces using React Three Fiber. Strong CS foundation with
-            experience in scalable component architecture, multiplayer logic,
-            and data synchronization. Eager to contribute to a professional
-            frontend team and grow as a full stack-capable engineer.
+            Mobile App developer with hands-on experience building mobile applications using React Native. Skilled in
+            TypeScript, Expo, Supabase, SQLite, and modern state management tools like Zustand and Redux. Experienced in
+            real-time and offline-first systems, smooth UI/UX with animations, and interactive 3D interfaces using React
+            Three Fiber. Strong CS foundation with experience in scalable component architecture, multiplayer logic, and data
+            synchronization. Eager to contribute to a professional frontend team and grow as a full-stack-capable engineer.
           </p>
           {/* <p>
             Convalis tincidunt posuere nibh cras non morbi in varius arcu. Et libero diam sit risus tincidunt. Urna

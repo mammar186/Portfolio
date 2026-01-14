@@ -20,7 +20,7 @@ export function Footer() {
           <p className="text-xl font-semibold text-white">
             Ammar<span className="text-[#07d2c7]">.</span>
           </p>
-          <p className="text-xs text-slate-400">Frontend developer.</p>
+          <p className="text-xs text-slate-400">Mobile App Developer.</p>
         </div>
 
         <div>

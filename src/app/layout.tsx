@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], display: "swap", variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Leinad | Frontend Developer",
-  description: "Portfolio site for a seasoned frontend developer crafting digital experiences.",
+  title: "Ammar | Mobile App Developer",
+  description: "Portfolio site for a mobile app developer crafting digital experiences.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

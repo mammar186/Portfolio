@@ -5,8 +5,6 @@ export function Skills() {
       items: [
         "React Native",
         "Expo",
-        "React",
-        "Next.js",
         "TypeScript",
         "JavaScript",
       ],

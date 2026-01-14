@@ -16,7 +16,7 @@ const services = [
   {
     title: "Frontend & UI Engineering",
     description:
-      "Developing responsive, user-friendly interfaces using React, Next.js, Tailwind, and Reanimated. Emphasis on smooth animations, scalable components, and modern UI/UX practices.",
+      "Developing responsive, user-friendly interfaces using React Native, Tailwind, R3F and Reanimated. Emphasis on smooth animations, scalable components, 3D Rendering and modern UI/UX practices.",
     number: "02",
     Icon: Globe1Outlined,
   },

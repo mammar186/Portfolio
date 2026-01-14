@@ -53,7 +53,7 @@ export function ContactSection() {
           </h2>
           <p className="text-slate-300">
             I am currently open to full-time, contract or part-time
-            opportunities in Front End Development.
+            opportunities in Mobile App Development.
           </p>
         </div>
 
