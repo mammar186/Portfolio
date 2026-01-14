@@ -91,7 +91,7 @@ export function ContactSection() {
                 value={form.name}
                 onChange={(e) => setForm({ ...form, name: e.target.value })}
                 required
-                className="w-full rounded-md border border-white/10 bg-[#0f141b] px-4 py-3 text-slate-100 outline-none ring-0 focus:border-[#07d2c7]"
+                className="w-full min-w-0 rounded-md border border-white/10 bg-[#0f141b] px-4 py-3 text-slate-100 outline-none ring-0 focus:border-[#07d2c7]"
               />
             </div>
             <div className="grid gap-2">
@@ -104,7 +104,7 @@ export function ContactSection() {
                 value={form.email}
                 onChange={(e) => setForm({ ...form, email: e.target.value })}
                 required
-                className="w-full rounded-md border border-white/10 bg-[#0f141b] px-4 py-3 text-slate-100 outline-none focus:border-[#07d2c7]"
+                className="w-full min-w-0 rounded-md border border-white/10 bg-[#0f141b] px-4 py-3 text-slate-100 outline-none focus:border-[#07d2c7]"
               />
             </div>
             <div className="grid gap-2">
@@ -117,7 +117,7 @@ export function ContactSection() {
                 value={form.message}
                 onChange={(e) => setForm({ ...form, message: e.target.value })}
                 required
-                className="w-full rounded-md border border-white/10 bg-[#0f141b] px-4 py-3 text-slate-100 outline-none focus:border-[#07d2c7]"
+                className="w-full min-w-0 rounded-md border border-white/10 bg-[#0f141b] px-4 py-3 text-slate-100 outline-none focus:border-[#07d2c7]"
               />
             </div>
             <button
