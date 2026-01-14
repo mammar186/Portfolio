@@ -3,11 +3,16 @@ import type { ReactNode } from "react";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
+
 const inter = Inter({ subsets: ["latin"], display: "swap", variable: "--font-inter" });
 
 export const metadata: Metadata = {
   title: "Ammar | Mobile App Developer",
   description: "Portfolio site for a mobile app developer crafting digital experiences.",
+  icons: {
+    icon: "../../favicon.ico",
+    apple: "../../apple-touch-icon.png",
+  }
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
