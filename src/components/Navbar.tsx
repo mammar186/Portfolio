@@ -24,7 +24,7 @@ export default function Navbar() {
                 </div>
 
                 <a
-                    href="/Muhammad-Ammar-Resume-ReactNative.pdf"
+                    href="/Muhammad-Ammar-Resume-ReactNative_v1.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="rounded-md border border-[#07d2c7] px-5 py-2 text-sm font-medium text-[#07d2c7] transition hover:bg-[#07d2c7] hover:text-black"
